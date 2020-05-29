@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MathExtended.Noise
+{
+    public class Worley : INoise
+    {
+        private void Generate()
+        {
+            throw new NotImplementedException();
+        }
+
+        public double Value(double x)
+        {
+            throw new NotImplementedException();
+        }
+
+        public double Value(double d, double y)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
